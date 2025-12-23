@@ -1,9 +1,12 @@
 # QR Code Generator
-Hello everyone I created a simple and convenient script which is generate QR codes from text or links
+Hello everyone I created a simple and convenient script which is generate QR codes from text or links.
+ - Generating QR codes from any string
+ - Support for cell size customization
+ - Adjustable border width
+ - Specify output file name
+ - Works as a CLI utility
 
-
-
-
+For a Russian-speaking audience below:
 
 # QR Code Generator
 Всем привет я создал просто и удобный скрипт для генерации QR-кодов из текста или ссылки
