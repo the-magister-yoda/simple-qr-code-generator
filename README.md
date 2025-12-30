@@ -7,6 +7,7 @@ Hello everyone I created a simple and convenient script which is generate QR cod
  - Works as a CLI utility
 
 For a Russian-speaking audience below:
+read below
 
 # QR Code Generator
 Всем привет я создал просто и удобный скрипт для генерации QR-кодов из текста или ссылки
